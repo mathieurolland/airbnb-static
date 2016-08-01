@@ -8,6 +8,7 @@
 .padded {
   padding-top: 5em;
   padding-bottom: 5em;
+  background: #FFFFFF;
 }
 
 // Backgrounds
@@ -22,4 +23,8 @@
 }
 .bg-facebook {
   background: #3b5998;
+}
+
+.wrapper-grey {
+  background: $blue;
 }
